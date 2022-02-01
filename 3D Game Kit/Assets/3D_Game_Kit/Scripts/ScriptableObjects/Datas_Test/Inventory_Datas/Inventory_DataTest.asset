@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164bc8902c61a2843b7a8847a94d7574, type: 3}
+  m_Name: Inventory_DataTest
+  m_EditorClassIdentifier: 
+  currItem: 0
+  itemName: Cube 2
+  icon: {fileID: 21300000, guid: 3101ed136ce9eed4c8b8c8ec552507ee, type: 3}
+  itemObj: {fileID: 5805410636444020550, guid: b60c139a8306dd4408f91bc36b959f71, type: 3}
+  isIntialised: 0
+  intialPos: {x: 0, y: 0, z: 0}
+  intialRot: {x: 0, y: 0, z: 0, w: 0}
+  coinIncrement: 0
